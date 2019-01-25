@@ -1,3 +1,6 @@
+RARD: The Related-Article Recommendation Dataset
+http://www.dlib.org/dlib/july17/beel/07beel.html
+
 E-commerce dataset
 https://www.kaggle.com/retailrocket/ecommerce-dataset/home
 
