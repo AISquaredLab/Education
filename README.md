@@ -1,3 +1,12 @@
+Aoyun: http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/
+https://www.kaggle.com/zygmunt/goodbooks-10k
+Graph embedding
+Matrix factorization
+
+Yue: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+Graph embedding
+Matrix factorization
+
 RARD: The Related-Article Recommendation Dataset
 http://www.dlib.org/dlib/july17/beel/07beel.html
 
