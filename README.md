@@ -1,7 +1,9 @@
+
 Aoyun: http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/
 https://www.kaggle.com/zygmunt/goodbooks-10k
 Graph embedding
 Matrix factorization
+Ray, app design for book recommendation
 
 Yue: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 Graph embedding
